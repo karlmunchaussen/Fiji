@@ -3,7 +3,7 @@ Gauging the resilience of various countries to the coronavirus pandemic based on
 
 **Team members: Junwei Luo, Joseph Pasik, Song Zhao, Leon Zubkov**
 
-### 	 	Data sources:
+###     Data sources:
 - [OECD Data Library](https://data.oecd.org/health.htm)
 
 - [WHO Healthcare Systems Dataset from Kaggle](https://www.kaggle.com/lingyoungloon/who-healthcare-systems)
