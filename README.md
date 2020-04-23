@@ -1,4 +1,4 @@
-# Fiji - COVID19 National Resilience Research
+# Team Fiji - COVID19 National Resilience Research
 Gauging the resilience of various countries to the coronavirus pandemic based on different fundamental aspects of their health system by clustering them with basic K-Means algorithm and extended weighted version respectively. 
 
 **Team members: Junwei Luo, Joseph Pasik, Song Zhao, Leon Zubkov**
